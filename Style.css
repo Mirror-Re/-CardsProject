@@ -14,11 +14,44 @@
     background-color: #994131;
     border-radius: 10px;
 }
+.card-3 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #823527;
+    margin: 16px;
+    background-color: #b35f3b;
+    border-radius: 10px;
+}
+.card-4 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #24c7c1;
+    margin: 16px;
+    background-color: #53b8b4;
+    border-radius: 10px;
+}
+.card-5 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #24c7c1;
+    margin: 16px;
+    background-color: #b00b26;
+    border-radius: 10px;
+}
 .card:hover {
     box-shadow: 0 8px 16px 0 mediumpurple;
 }
 .card-2:hover {
     box-shadow: 0 8px 16px 0 #823527;
+}
+.card-3:hover {
+    box-shadow: 0 8px 16px 0 #7a2309;
+}
+.card-4:hover {
+    box-shadow: 0 8px 16px 0 #149cb8;
+}
+.card-5:hover {
+    box-shadow: 0 8px 16px 0 #149cb8;
 }
 
 .picture-section {
@@ -27,6 +60,30 @@
 }
 .picture {
     border: 5px solid plum;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-2 {
+    border: 5px solid #ad633b;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-3 {
+    border: 5px solid #c74f1c;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-4 {
+    border: 5px solid #149cb8;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-5 {
+    border: 5px solid #ab1b0e;
     width: 250px;
     height: 150px;
     border-radius: 20px;
