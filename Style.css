@@ -33,13 +33,13 @@
 .card-5 {
     width: 260px;
     min-height: 300px;
-    box-shadow: 0 4px 8px 0 #24c7c1;
+    box-shadow: 0 4px 8px 0 #b00b;
     margin: 16px;
     background-color: #b00b26;
     border-radius: 10px;
 }
 .card:hover {
-    box-shadow: 0 8px 16px 0 mediumpurple;
+    box-shadow: 0 8px 16px 0 plum;
 }
 .card-2:hover {
     box-shadow: 0 8px 16px 0 #823527;
@@ -51,7 +51,7 @@
     box-shadow: 0 8px 16px 0 #149cb8;
 }
 .card-5:hover {
-    box-shadow: 0 8px 16px 0 #149cb8;
+    box-shadow: 0 8px 16px 0 #b00b;
 }
 
 .picture-section {
@@ -92,24 +92,24 @@
     padding: 8px;
     color: white;
 }
-.listing {
+.stuff {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     margin-bottom: 4px;
     color: white;
 }
-.price {
+.name {
     font-size: 20px;
     font-width: bold;
     color: white;
 }
-.adress {
+.songwriter {
     font-width: bold;
     margin-bottom: 4px;
     color: white;
 }
-.type {
+.time {
     font-size: 12px;
     color: white;
 }
@@ -120,6 +120,6 @@ a {
     display: flex;
     flex-wrap: wrap;
 }
-.Bottom-Area {
+.buttons {
     font-size: x-large;
 }
