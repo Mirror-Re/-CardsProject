@@ -38,6 +38,46 @@
     background-color: #b00b26;
     border-radius: 10px;
 }
+.card-6 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #cca843;
+    margin: 16px;
+    background-color: #ccb966;
+    border-radius: 10px;
+}
+.card-7 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #578240;
+    margin: 16px;
+    background-color: #6e8c5e;
+    border-radius: 10px;
+}
+.card-8 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #8d9bb3;
+    margin: 16px;
+    background-color: #676c75;
+    border-radius: 10px;
+}
+.card-9 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #a379db;
+    margin: 16px;
+    background-color: #b79cdb;
+    border-radius: 10px;
+}
+.card-0 {
+    width: 260px;
+    min-height: 300px;
+    box-shadow: 0 4px 8px 0 #fa1511;
+    margin: 16px;
+    background-color: #c90502;
+    border-radius: 10px;
+}
 .card:hover {
     box-shadow: 0 8px 16px 0 plum;
 }
@@ -53,7 +93,21 @@
 .card-5:hover {
     box-shadow: 0 8px 16px 0 #b00b;
 }
-
+.card-6:hover {
+    box-shadow: 0 8px 16px 0 #cca843;
+}
+.card-7:hover {
+    box-shadow: 0 8px 16px 0 #578240;
+}
+.card-8:hover {
+    box-shadow: 0 8px 16px 0 #8d9bb3;
+}
+.card-9:hover {
+    box-shadow: 0 8px 16px 0 #a379db;
+}
+.card-0:hover {
+    box-shadow: 0 8px 16px 0 #fa1511;
+}
 .picture-section {
     height: 150px;
     position: relative;
@@ -83,7 +137,37 @@
     border-radius: 20px;
 }
 .picture-5 {
-    border: 5px solid #ab1b0e;
+    border: 5px solid #d91a09;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-6 {
+    border: 5px solid #cca843;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-7 {
+    border: 5px solid #578240;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-8 {
+    border: 5px solid #8d9bb3;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-9 {
+    border: 5px solid #a379db;
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+.picture-0 {
+    border: 5px solid #fa1511;
     width: 250px;
     height: 150px;
     border-radius: 20px;
@@ -122,4 +206,7 @@ a {
 }
 .buttons {
     font-size: x-large;
+}
+.card-area {
+
 }
