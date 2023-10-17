@@ -208,5 +208,6 @@ a {
     font-size: x-large;
 }
 .card-area {
-
+ display: flex;
+ flex-wrap: wrap;
 }
